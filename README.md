@@ -14,3 +14,7 @@ This will start the websocket server
 ### Then
 
 open ```/websocket-client``` and right click ```index.html``` > open with > browser
+
+### To do
+1) Create a react app from the seed code
+2) Create a simple conversation interface
