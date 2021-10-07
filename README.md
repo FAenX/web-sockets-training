@@ -5,3 +5,12 @@
 4) https://www.tutorialspoint.com/html5/html5_websocket.htm
 5) https://javascript.info/websocket
 6) https://www.npmjs.com/package/ws#multiple-servers-sharing-a-single-https-server
+
+
+### Run ```npm start``
+
+This will start the websocket server
+
+### Then
+
+open ```/websocket-client``` and right click ```index.html``` > open with > browser
