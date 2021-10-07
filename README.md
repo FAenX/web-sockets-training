@@ -7,7 +7,7 @@
 6) https://www.npmjs.com/package/ws#multiple-servers-sharing-a-single-https-server
 
 
-### Run ```npm start``
+### Run ```npm start```
 
 This will start the websocket server
 
